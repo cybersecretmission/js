@@ -6,7 +6,7 @@ const audio = new Audio();
 $(document).ready(function () {
   const playlist = [
     {
-      name: "অডিওটি শুধুমাত্র একবার শুনতে পারবেন",
+      name: "লেখাটির উপরে ক্লিক করলেই অডিওটি শুধুমাত্র একবার শুনতে পারবেন",
       artist: "One Time Audio",
       src: "https://masumbillah6778bd.github.io/bangladesh-mix-music/biye-kora-mane.mp3"
     }
